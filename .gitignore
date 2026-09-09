@@ -1,0 +1,10 @@
+node_modules
+.next
+.next-dev
+.env
+data/*.json
+coverage
+kits.json
+*.log
+.DS_Store
+Thumbs.db
